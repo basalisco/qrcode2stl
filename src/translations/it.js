@@ -32,7 +32,7 @@ export default {
   max: 'max',
   thankYou: 'Grazie mille per il supporto. You rock!',
   promotionTitle: 'Vuoi iniziare un nuovo hobby? Cerchi una seconda/terza stampante 3D?',
-  promotionSubtitle: 'Ecco alcune stampanti 3d consigliate e accessori per stampanti 3d per coprirti. Se vuoi supportare lo sviluppo di questo strumento, prendi in considerazione l'utilizzo dei link sottostanti per acquistare su AliExpress.',
+  promotionSubtitle: 'Ecco alcune stampanti 3d consigliate e accessori per stampanti 3d per coprirti. Se vuoi supportare lo sviluppo di questo strumento, prendi in considerazione l utilizzo dei link sottostanti per acquistare su AliExpress.',
   corner: 'angolo',
   isGenerating: 'Generazione Modello 3d...',
   headerShareNotice: 'Condividi il tuo codice con questo URL',
@@ -46,7 +46,7 @@ export default {
   qrCodeOptionsTitle: 'Opzioni QR Code',
   qrCodeTextPlaceholder: 'Teto del tuo QR code e.g. Ciao Mondo',
   errorCorrection: 'Correzione errore',
-  errorCorrectionHelp: 'Maggiore è il livello di correzione dell'errore, più denso è il codice QR.',
+  errorCorrectionHelp: 'Maggiore è il livello di correzione dell errore, più denso è il codice QR.',
   optionalFieldsHint: 'Non tutti i campi devono essere compilati.',
   // Wifi
   ssidPlaceholder: 'Il nome delle rete Wifi',
@@ -70,11 +70,11 @@ export default {
   state: 'Stato',
   // E-Mail
   recipient: 'Indirizzo',
-  recipientPlaceholder: 'L'indirizzo hce riceverà la mail',
+  recipientPlaceholder: 'L indirizzo hce riceverà la mail',
   subject: 'Oggettp',
-  subjectPlaceholder: 'Linea dell'oggetto della mail',
+  subjectPlaceholder: 'Linea dell oggetto della mail',
   body: 'Teso',
-  bodyPlaceholder: 'Contenuto dell'E-Mail',
+  bodyPlaceholder: 'Contenuto dell E-Mail',
   // SMS
   phonePlaceholder: 'Numero telefono destinatario',
   smsMessage: 'Messaggio',
@@ -85,8 +85,8 @@ export default {
   //
   spotifyOptions: 'Opzioni Generatore Spotify QR Code',
   spotifyUri: 'Spotify URI/Link',
-  spotifyUriHelp: 'Puoi ottenere l'URI di Spotify per un brano/album/playlist/utente da Spotify facendo clic su "Condividi" e copiare il link.',
-  spotifyCodeHeightInfo: 'I codici Spotify hanno un rapporto d'aspetto fisso di 4:1',
+  spotifyUriHelp: 'Puoi ottenere l URI di Spotify per un brano/album/playlist/utente da Spotify facendo clic su "Condividi" e copiare il link.',
+  spotifyCodeHeightInfo: 'I codici Spotify hanno un rapporto d aspetto fisso di 4:1',
 
   //
   // 3D Model Options Panel
@@ -96,7 +96,7 @@ export default {
   width: 'Larghezza',
   height: 'Altezza',
   depth: 'Profondità',
-  cornerRadius: 'Raggio d'angolo',
+  cornerRadius: 'Raggio d angolo',
   border: 'Bordo',
   borderAroundBase: 'Aggiungi bordo intorno la base',
   margin: 'Margini',
