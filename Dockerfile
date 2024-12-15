@@ -9,7 +9,7 @@ RUN apt-get update && apt-get -y install \
         automake \
         && apt-get clean && rm -rf /var/lib/apt/lists/*
 
-RUN git clone --single-branch --depth 1 https://github.com/flxn/qrcode2stl.git .
+RUN git clone --single-branch --depth 1 https://github.com/basalisco/qrcode2stl.git .
 
 RUN npm install --location=global http-server
 
