@@ -10,8 +10,10 @@ RUN apt-get update && apt-get -y install \
         && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 RUN git clone --single-branch --depth 1 https://github.com/basalisco/qrcode2stl.git .
-
+RUN git pull
 RUN npm install --location=global http-server
+RUN npm i -g npm-check-updates
+RUN ncu -i
 
 RUN yarn
 RUN yarn run build; exit 0
