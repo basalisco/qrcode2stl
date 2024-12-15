@@ -16,7 +16,7 @@ export default {
   generateButton: 'Genera Modello 3D',
   scrollDownForGuide: 'Scorri verso il basso per leggere la guida su come stampare il tuo codice QR.',
   printabilityWarning: 'Attenzione alla stampabilità del Modello 3D',
-  printabilityWarningBody: 'Almeno un bordo dell'elemento più piccolo nel modello 3D è molto piccolo: {dimensions}. A seconda della configurazione, la stampa potrebbe risultare più difficile.',
+  printabilityWarningBody: "Almeno un bordo dell'elemento più piccolo nel modello 3D è molto piccolo: {dimensions}. A seconda della configurazione, la stampa potrebbe risultare più difficile. ",
   supportMe: 'Support qrcode2stl',
   viewOnGithub: 'GitHub',
   shareButtonTitle: 'Condividi questa pagina',
