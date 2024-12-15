@@ -4,7 +4,7 @@ import langFR from './fr';
 import langBR from './br';
 import langCZ from './cz';
 import langGAL from './gal';
-import langIT from './it';
+//import langIT from './it';
 
 export default {
   en: langEN,
@@ -12,6 +12,6 @@ export default {
   fr: langFR,
   br: langBR,
   cz: langCZ,
-  it: langIT,
+//  it: langIT,
   esptgal: langGAL,
 };
