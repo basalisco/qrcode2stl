@@ -32,7 +32,7 @@ export default {
   max: 'max',
   thankYou: 'Grazie mille per il supporto. You rock!',
   promotionTitle: 'Vuoi iniziare un nuovo hobby? Cerchi una seconda/terza stampante 3D?',
-  promotionSubtitle: 'Ecco alcune stampanti 3d consigliate e accessori per stampanti 3d per coprirti. Se vuoi supportare lo sviluppo di questo strumento, prendi in considerazione l'utilizzo dei link sottostanti per acquistare su AliExpress.',
+  promotionSubtitle: 'Ecco alcune stampanti 3d consigliate e accessori per stampanti 3d per coprirti. Se vuoi supportare lo sviluppo di questo strumento, prendi in considerazione l utilizzo dei link sottostanti per acquistare su AliExpress.',
   corner: 'angolo',
   isGenerating: 'Generazione Modello 3d...',
   headerShareNotice: 'Condividi il tuo codice con questo URL',
